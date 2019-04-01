@@ -1,0 +1,11 @@
+.*
+!.gitignore
+!.gitmodules
+*~
+
+components/
+
+_site/
+
+vendor/
+
